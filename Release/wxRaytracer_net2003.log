@@ -1,0 +1,45 @@
+﻿生成启动时间为 2015/12/8 星期二 下午 4:26:27。
+     1>项目“E:\raytracer\wxraytracer\wxRaytracer\wxRaytracer_net2003.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Release\wxRaytracer.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         f:\visual stdio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Release\wxRaytracer.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:wxWidgets\lib comctl32.lib rpcrt4.lib winmm.lib advapi32.lib wsock32.lib wxpng.lib wxzlib.lib wxjpeg.lib wxtiff.lib wxmsw28_core.lib wxbase28.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\wxRaytracer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\raytracer\wxraytracer\wxRaytracer\Release\wxRaytracer.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Release\wxRaytracer.lib" /MACHINE:X86 Release\BRDF.obj
+         Release\Lambertian.obj
+         Release\Camera.obj
+         Release\Pinhole.obj
+         Release\GeometricObject.obj
+         Release\Plane.obj
+         Release\Sphere.obj
+         Release\Ambient.obj
+         Release\Directional.obj
+         Release\Light.obj
+         Release\Material.obj
+         Release\Matte.obj
+         Release\MultipleObjects.obj
+         Release\RayCast.obj
+         Release\SingleSphere.obj
+         Release\Tracer.obj
+         Release\wxraytracer.obj
+         Release\Matrix.obj
+         Release\Normal.obj
+         Release\Point2D.obj
+         Release\Point3D.obj
+         Release\Ray.obj
+         Release\RGBColor.obj
+         Release\ShadeRec.obj
+         Release\Vector3D.obj
+         Release\ViewPlane.obj
+         Release\World.obj
+         wxRaytracer_net2003.vcxproj -> E:\raytracer\wxraytracer\wxRaytracer\Release\wxRaytracer.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"Release\wxRaytracer.exe;#1" /manifest Release\wxRaytracer.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\wxRaytracer.unsuccessfulbuild”。
+         正在对“Release\wxRaytracer.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\raytracer\wxraytracer\wxRaytracer\wxRaytracer_net2003.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.12
